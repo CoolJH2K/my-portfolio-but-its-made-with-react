@@ -1,0 +1,12 @@
+{
+  "name": "my-portfolio-but-its-made-with-react",
+  "version": "1.0.0",
+  "description": "Exactly what it says in the title.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
