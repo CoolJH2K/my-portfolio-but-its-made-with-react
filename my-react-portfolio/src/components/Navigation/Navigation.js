@@ -1,15 +1,17 @@
 // Import React
 import React from "react";
-import Footer from "./Footer";
-import Header from "./Header";
+import Footer from "../Footer/Footer";
+import Header from "../Header/Header";
 
 // Create Navigation function
 function Navigation() {
     return (
-        <div className="navigation-bar">
+        <div>
             <nav>
-                <ul className="list-group">
-                    
+                <ul>
+                    <li>
+                        <a href=""></a>
+                    </li>
                 </ul>
             </nav>
         </div>

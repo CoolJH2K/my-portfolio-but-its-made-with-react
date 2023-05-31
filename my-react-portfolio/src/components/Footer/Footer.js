@@ -1,7 +1,7 @@
 // Import React
 import React from "react";
-import Header from "./Header";
-import Navigation from "./Navigation";
+import Header from "../Header/Header";
+import Navigation from "../Navigation/Navigation";
 
 // Create Footer function
 function Footer() {
