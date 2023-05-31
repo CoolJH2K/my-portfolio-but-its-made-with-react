@@ -5,8 +5,9 @@ import Header from "./Header";
 import Navigation from "./Navigation";
 
 // Create Project function
-function Project(props) {
+function Project() {
     const projectCard = {
+        backgroundColor: "rgb(146, 204, 206)",
         maxHeight: "400px",
         width: "800px",
     };
