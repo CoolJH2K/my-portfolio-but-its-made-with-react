@@ -1,0 +1,17 @@
+.nav a {
+    background-image: linear-gradient(270deg, rgb(146, 204, 206) 0%, rgb(146, 204, 206) 100%);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 100% 0.2em;
+    color: rgb(146, 204, 206);
+    font-size: 1.4rem;
+    margin-right: 10px;
+    padding: 5px 10px;
+    text-decoration: none;
+    transition: all 0.25s ease-in; 
+}
+
+.nav a:hover {
+    background-size: 100% 100%;
+    color: rgb(68, 68, 119);
+}
