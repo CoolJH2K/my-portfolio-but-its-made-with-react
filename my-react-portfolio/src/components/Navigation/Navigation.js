@@ -1,4 +1,4 @@
-// Import React
+// Import React, other components, and CSS
 import React from "react";
 import Footer from "../Footer/Footer";
 import Header from "../Header/Header";
