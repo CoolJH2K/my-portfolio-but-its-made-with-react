@@ -9,7 +9,8 @@ import "./Project.css";
 function Project() {
     return (
         <body>
-            
+            <Header />
+            <Footer />
         </body>
     )
 }

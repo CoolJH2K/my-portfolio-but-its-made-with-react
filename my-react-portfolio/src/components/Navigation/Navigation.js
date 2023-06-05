@@ -11,7 +11,7 @@ function Navigation() {
             <nav>
                 <ul>
                     <li>
-                        <a href=""></a>
+                        <Link to="/" />
                     </li>
                 </ul>
             </nav>

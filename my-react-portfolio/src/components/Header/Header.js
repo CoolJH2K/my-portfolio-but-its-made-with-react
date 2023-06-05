@@ -10,6 +10,9 @@ function Header() {
     return (
         <header>
             <h1>Janna's React Portfolio</h1>
+            <div>
+                <Navigation />
+            </div>
         </header>
     );
 }
