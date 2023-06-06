@@ -10,8 +10,7 @@ import Project from "./components/Project/Project";
 function App() {
   return (
     <main>
-      <Header />
-      <Footer />
+      <Homepage />
     </main>
   );
 }
