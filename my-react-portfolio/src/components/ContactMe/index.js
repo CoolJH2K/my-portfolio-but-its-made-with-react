@@ -1,8 +1,8 @@
 // Import React, other components, and CSS
 import React from "react";
-import Footer from "../Footer/Footer";
-import Header from "../Header/Header";
-import Navigation from "../Navigation/Navigation";
+import Footer from "../Footer";
+import Header from "../Header";
+import Navigation from "../Navigation";
 import "./ContactMe.css";
 
 // Create ContactMe function

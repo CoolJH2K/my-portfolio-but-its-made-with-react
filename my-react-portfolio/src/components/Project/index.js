@@ -2,7 +2,7 @@
 import React from "react";
 import Footer from "../Footer/Footer";
 import Header from "../Header/Header";
-import Homepage from "../Homepage/Homepage";
+import Homepage from "../Homepage";
 import "./Project.css";
 
 // Create Project function

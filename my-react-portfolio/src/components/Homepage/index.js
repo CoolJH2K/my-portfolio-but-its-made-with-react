@@ -2,8 +2,8 @@
 import React from "react";
 import Footer from "../Footer/Footer";
 import Header from "../Header/Header";
-import Navigation from "../Navigation/Navigation";
-import Project from "../Project/Project";
+import Navigation from "../Navigation";
+import Project from "../Project";
 import "./Homepage.css";
 
 // Create Homepage function

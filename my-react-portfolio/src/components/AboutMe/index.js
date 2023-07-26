@@ -1,16 +1,14 @@
-// Import React, other components, and CSS
+// Import React
 import React from "react";
-import Footer from "../Footer/Footer";
-import Header from "../Header/Header";
-import Navigation from "../Navigation/Navigation";
-import "./AboutMe.css";
 
 // Create AboutMe function
 function AboutMe() {
     return (
-        <section>
-            <h2>About Me</h2>
-            <div>
+        <section className="my-5">
+            <div className="my-2">
+                <div className="profile-img my-5">
+                <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+                </div>
                 <p>I am a 23-year-old college boot camp graduate who is an aspiring web designer.</p>
             </div>
         </section>
